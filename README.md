@@ -4,7 +4,8 @@ Projeto do Bootcamp HTML Web Develop da Developer Insovation One.
  - Link para visualizar o projeto: https://diegorosas19.github.io/Recriando-a-pagina-inicial-do-instagram/
 
 #### Resultado da Minha página de login:
-![Minha pagina inicial](https://user-images.githubusercontent.com/52979798/115133148-63bec400-9fdc-11eb-93ae-b83d83ed717c.PNG)
+![Minha pagina inicial 2](https://user-images.githubusercontent.com/52979798/115138261-64b61c80-a001-11eb-84a1-c01f5d2f9c2c.PNG)
+
 
 #### Resultado da responsividade:
 ![Responsividade](https://user-images.githubusercontent.com/52979798/115133385-28bd9000-9fde-11eb-9ce8-a79e75fc59b5.PNG)
