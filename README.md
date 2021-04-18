@@ -8,7 +8,8 @@ Projeto do Bootcamp HTML Web Develop da Developer Insovation One.
 
 
 #### Resultado da responsividade:
-![Responsividade](https://user-images.githubusercontent.com/52979798/115133385-28bd9000-9fde-11eb-9ce8-a79e75fc59b5.PNG)
+![Responsividade 2](https://user-images.githubusercontent.com/52979798/115138374-1d7c5b80-a002-11eb-8735-dc3bcd4e5b51.PNG)
+
 
 
 #### :computer: Tecnologias Utilizadas:
