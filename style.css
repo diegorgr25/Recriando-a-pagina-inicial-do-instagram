@@ -192,7 +192,7 @@ body{
 
     .instagram-wrapper{
         width: 90%;
-        justify-content: center;
+        
     }
 
     .instagram-phone{
@@ -200,12 +200,12 @@ body{
     }
 
     .instagram-continue{
-        width: 90%;
-        justify-content: center;
+        width: 100%;
+        
     }
 
     .group{
-        width: 70%;
+        
         border: 1px solid transparent;
     }
 }
